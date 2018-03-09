@@ -1,0 +1,27 @@
+input[type="text"]{
+	background-color: grey;
+	margin: 8px;
+	padding: 10px;
+	border:2px solid grey;
+}
+textarea{
+	background-color:grey;
+	width: 35%;
+	height: 100px;
+	border:2px solid grey;
+	text-align: center;
+}
+#class{
+	text-align: center;
+
+	
+}
+#leftcontainer{
+	text-align: center;
+}
+#rightcontainer{
+	text-align: center;
+}
+.label{
+	text-align: center;
+}
